@@ -1,0 +1,2 @@
+# Simulating-a-Corporate-Network-Attack-Scenario-via-Phishing-Emails
+This project simulates a cyber attack on an enterprise network through phishing emails. It demonstrates how a compromised employee machine leads to domain controller infiltration and data extraction. The goal is to raise awareness of social engineering threats and propose effective countermeasures using the MITRE ATT&amp;CK framework.
